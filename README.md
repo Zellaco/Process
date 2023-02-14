@@ -1,4 +1,5 @@
-# TestRepo
-Repo to test features in Github
+In this repository all process releated documents and checklists are collected. This page should be seen as an entry point for access to all subprocesses.
 
-We can [link](Asubfolder/Anotherpage.md)
+* [Process improvement](pim/README.md)
+* [Configuration management](cm/README.md)
+* [Software Development](sd/README.md)
