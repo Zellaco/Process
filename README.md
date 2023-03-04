@@ -3,4 +3,4 @@ In this repository all process releated documents and checklists are collected. 
 * [Process improvement](pim/README.md)
 * [Configuration management](cm/README.md)
 * [Software Development](sd/README.md)
-* [Templates](templates/)
+* [C-header-template](templates/c-header.md)

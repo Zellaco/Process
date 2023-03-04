@@ -1,3 +1,6 @@
+The following header should be used in C and C++ code if not overriden by the project.
+
+```C
 /* ----------------------------------------------------------------------------
  *
  * Copyright (C) 2023  Zellaco AB <contact@zellaco.se>
@@ -14,3 +17,4 @@
  * See the License for the specific language governing permissions and
  * limitations under the License. 
  * --------------------------------------------------------------------------*/
+```
