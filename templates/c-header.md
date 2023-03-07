@@ -1,3 +1,5 @@
+[Top page](../README.md)
+
 The following header should be used in C and C++ code if not overriden by the project.
 
 ```C
